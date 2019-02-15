@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mackenzie's Page
 
 You can use the [editor on GitHub](https://github.com/mbradley0416/super-student/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
