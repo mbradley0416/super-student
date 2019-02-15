@@ -1,6 +1,6 @@
 ## Welcome to Mackenzie's Page
 
-You can use the [editor on GitHub](https://github.com/mbradley0416/super-student/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a business major with a concentration in communications. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
